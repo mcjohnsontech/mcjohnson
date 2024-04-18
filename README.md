@@ -1,1 +1,2 @@
-[- 👋 Hello, I'm Mark Abiodun, looking forward to working together
+ 👋 Hello, There!
+I'm Mark Abiodun, frontend developer looking forward to working together
